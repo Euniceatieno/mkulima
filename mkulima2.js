@@ -21,7 +21,7 @@
            return delete this.farms[theFarm]
         }
         updateFarm(farmId,name,farmer,phoneNumber,address){
-            let farmToBeUpdated=this.farms.find(theFarm=>theFarm.farmId==12345)
+            let farmToBeUpdated=this.farms.find(farmToBeUpdated=>farmToBeUpdated.farmId==12345)
             farmToBeUpdated={
                 farmId:farmId,
                 name:name,
