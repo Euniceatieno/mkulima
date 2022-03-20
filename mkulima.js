@@ -1,4 +1,10 @@
-//
+// Eunice Atieno's Project.
+//She is amazing and she is my big sister.
+//Today I got to understand Git collaboration.
+//She a Backend developer at Twiga foods.
+//She is my inspirstion.
+
+
 //     updateFarm(details=[]){
 //        this.farms=details
 //        return this.farms
@@ -14,52 +20,6 @@
 // console.log(mkulima.removeFarm(1234))
 // console.log(mkulima.updateFarm([12344,"Soilo","Mainge","07983765","KIsumu"]))
 // console.log(mkulima.getFarm({name:"Stacy",farmer:"mainge",id:1234}))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 // // class Mkulima{
 // //     constructor(farms,groceryVendors,products,orders){
