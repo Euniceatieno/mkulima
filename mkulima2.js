@@ -4,6 +4,7 @@
             this.groceryVendors=groceryVendors
             this.products=products
             this.orders=orders
+        
         }
         addFarm(farmId,name,farmer,phoneNumber,address){
             var aFarm={
@@ -12,6 +13,7 @@
                 farmer:farmer,
                 phoneNumber:phoneNumber,
                 address:address
+                //I'm a student at Akirachix
             }
             this.farms.push(aFarm)
             return this.farms
