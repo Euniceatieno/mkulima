@@ -1,19 +1,4 @@
-// class Mkulima{
-//     constructor(farms,groceryVendors,products,orders){
-//         this.farms=farms
-//         this.groceryVendors=groceryVendors
-//         this.products=products
-//         this.orders=orders
-//     }
-//     addFarm(farmId,name,farmer,phoneNumber,address){
-//         this.farms.unshift(farmId,name,farmer,phoneNumber,address)
-//         return this.farms
-//     }
-//     removeFarm(farmId){
-//         this.farms.shift(farmId)
-//         return this.farms
-
-//     }
+//
 //     updateFarm(details=[]){
 //        this.farms=details
 //        return this.farms
